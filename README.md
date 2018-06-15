@@ -3,6 +3,6 @@ Project 2: empirical analysis
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Bianca Toledo biancat@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+
